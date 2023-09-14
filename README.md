@@ -1,5 +1,5 @@
 # Compitiendo en Kaggle: El Arte de Diagnosticar enfermamdes en plantas de Yuca con KerasCV (Keras Community Day) 🤓🚀
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Keras_Community_Day_Compete_in_Kaggle_using_KerasCV.ipynb)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Keras+Community+Day!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
@@ -12,7 +12,7 @@ Note: This repository is for the Keras Community Day 📄
 ## How to use it? 📦
 Just click on Open in Colab, and you are going to have access to all the project.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Keras_Community_Day_Compete_in_Kaggle_using_KerasCV.ipynb)
 
 ## Yuca Algorithm :space_invader: 
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
