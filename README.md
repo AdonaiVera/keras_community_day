@@ -2,7 +2,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdonaiVera/cincipy_malaria/blob/main/%5BMalaria%5D_mainProject.ipynb)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Cincipy+Community!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Keras+Community+Day!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
 Note: This repository is for the Keras Community Day 📄
