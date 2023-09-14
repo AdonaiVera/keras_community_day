@@ -5,9 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+Cincipy+Community!;Bienvenidos!;Accueillir!;欢迎!&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-Note: This repository is for the Keras Community Day, thanks for the base code Usha Rengaraju 📄
+Note: This repository is for the Keras Community Day 📄
 
-![image](https://user-images.githubusercontent.com/45982251/180677692-b5708a55-0694-4ba4-a3a3-901e6bbb6c5a.png)
+![image](img/colab.png)
 
 ## How to use it? 📦
 Just click on Open in Colab, and you are going to have access to all the project.
@@ -18,7 +18,12 @@ Just click on Open in Colab, and you are going to have access to all the project
 As the second-largest provider of carbohydrates in Africa, cassava is a key food security crop grown by smallholder farmers because it can withstand harsh conditions. At least 80% of household farms in Sub-Saharan Africa grow this starchy root, but viral diseases are major sources of poor yields. With the help of data science, it may be possible to identify common diseases so they can be treated.
 
 Existing methods of disease detection require farmers to solicit the help of government-funded agricultural experts to visually inspect and diagnose the plants. This suffers from being labor-intensive, low-supply and costly. As an added challenge, effective solutions for farmers must perform well under significant constraints, since African farmers may only have access to mobile-quality cameras with low-bandwidth.
-![image](https://user-images.githubusercontent.com/45982251/180677747-3ccedc34-b1ff-433b-9093-c0674adef263.png)
+
+<p align="center">
+  <img width="460" height="460" src="img/example.png">
+</p>
+
+
 
 
 ## Dataset 📖
