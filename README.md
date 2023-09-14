@@ -7,7 +7,7 @@
 
 Note: This repository is for the Keras Community Day 📄
 
-![image](img/colab.png)
+![image](img/code.png)
 
 ## How to use it? 📦
 Just click on Open in Colab, and you are going to have access to all the project.
